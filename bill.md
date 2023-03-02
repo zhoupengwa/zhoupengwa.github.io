@@ -106,7 +106,7 @@ roleType--角色类型（0-普通用户）
 ---|---|---|---|---|---
 phone|string|18480000000|是|手机号|len <= 11
 password|string|123456987|是|密码|len <= 32
-email|string|409044500@qq.com|否|邮箱| len <= 32
+email|string|234200@qq.com|否|邮箱| len <= 32
 username|string|大脸猫|否|用户名|len <= 64
 gender|integer|0|否|性别|0-隐藏、1-男、2-女
 introduce|string|天苍苍，野茫茫|否|个性签名|len <= 128
